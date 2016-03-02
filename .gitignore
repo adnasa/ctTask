@@ -1,2 +1,4 @@
 ctTask.iml
 .idea*
+*.swp
+.sass-cache
