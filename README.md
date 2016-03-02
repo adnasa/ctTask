@@ -3,6 +3,7 @@
 - Download the repo
 - Write the solution according to the requirements
 - Push the solution to your own github profile and send us the link
+- __DON'T JUST FORK THE REPO!__
 
 #Requirements
 
