@@ -12,13 +12,13 @@
 - Use any libraries / preprocessors you like.
 - Add any interactions you think should be there (changing tabs on click, update price on quantity change, etc.)
 - When you're done, update this README file with an explanation of what you've built, what you've used and why you built it the way you have.
-- Make it look as nice as you can! Use mouseover effects / click effects / animations etc.
 
 #Bonus requirements
 
 - Use SASS preprocessors.
 - Use Grunt or Gulp Task runners to compile / minify / uglify scripts and move the to the /public folder.
 - Use atomic design and BEM to structure HTML/CSS
+- Use mouseover effects, animations, etc. where appropriate
 
 ---------------------
 
